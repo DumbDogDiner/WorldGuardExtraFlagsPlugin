@@ -1,1 +1,0 @@
-/home/skye/Projects/orgs/ddd/plugins/WorldGuardExtraFlagsPlugin/common/build/classes/java/main/com/dumbdogdiner/worldguardextraflags/AbstractWorldGuardExtraFlagsPlugin.class
