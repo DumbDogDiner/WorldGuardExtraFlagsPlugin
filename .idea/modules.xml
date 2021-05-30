@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spigot/Spigot.iml" filepath="$PROJECT_DIR$/Spigot/Spigot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/common.iml" filepath="$PROJECT_DIR$/Common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WG/wg.iml" filepath="$PROJECT_DIR$/WG/wg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WG6/wg6.iml" filepath="$PROJECT_DIR$/WG6/wg6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WG7/wg7.iml" filepath="$PROJECT_DIR$/WG7/wg7.iml" />
+    </modules>
+  </component>
+</project>

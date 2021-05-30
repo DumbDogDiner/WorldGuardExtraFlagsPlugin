@@ -1,0 +1,14 @@
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/SessionManagerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.SessionManagerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/RegionContainerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.RegionContainerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/WorldGuardSevenCommunicator.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.WorldGuardSevenCommunicator
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/RegionManagerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.RegionManagerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/RegionQueryWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.RegionQueryWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/WorldEditFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.WorldEditFlagHandler
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/v7/CustomSetFlag.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.v7.CustomSetFlag

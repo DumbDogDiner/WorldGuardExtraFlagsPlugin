@@ -1,0 +1,25 @@
+com/dumbdogdiner/worldguardextraflags/listeners/EntityListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.EntityListener
+com/dumbdogdiner/worldguardextraflags/listeners/WorldEditListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.WorldEditListener
+com/dumbdogdiner/worldguardextraflags/listeners/WorldListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.WorldListener
+com/dumbdogdiner/worldguardextraflags/WorldGuardExtraFlagsPlugin.java
+ com.dumbdogdiner.worldguardextraflags.WorldGuardExtraFlagsPlugin
+com/dumbdogdiner/worldguardextraflags/listeners/EntityPotionEffectEventListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.EntityPotionEffectEventListener
+com/dumbdogdiner/worldguardextraflags/protocollib/RemoveEffectPacketListener.java
+ com.dumbdogdiner.worldguardextraflags.protocollib.RemoveEffectPacketListener
+com/dumbdogdiner/worldguardextraflags/listeners/BlockListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.BlockListener
+com/dumbdogdiner/worldguardextraflags/listeners/BlockListenerWG.java
+ com.dumbdogdiner.worldguardextraflags.listeners.BlockListenerWG
+com/dumbdogdiner/worldguardextraflags/listeners/PlayerListener.java
+ com.dumbdogdiner.worldguardextraflags.listeners.PlayerListener
+ com.dumbdogdiner.worldguardextraflags.listeners.PlayerListener$1
+ com.dumbdogdiner.worldguardextraflags.listeners.PlayerListener$2
+com/dumbdogdiner/worldguardextraflags/listeners/EntityListenerOnePointNine.java
+ com.dumbdogdiner.worldguardextraflags.listeners.EntityListenerOnePointNine
+ com.dumbdogdiner.worldguardextraflags.listeners.EntityListenerOnePointNine$1
+com/dumbdogdiner/worldguardextraflags/protocollib/ProtocolLibHelper.java
+ com.dumbdogdiner.worldguardextraflags.protocollib.ProtocolLibHelper

@@ -1,0 +1,84 @@
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/TeleportOnExitFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.TeleportOnExitFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.TeleportOnExitFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/ConsoleCommandOnExitFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.ConsoleCommandOnExitFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.ConsoleCommandOnExitFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/helpers/MaterialFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.MaterialFlag
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/WorldGuardCommunicator.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.WorldGuardCommunicator
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/FlySpeedFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.FlySpeedFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.FlySpeedFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/AbstractRegionManagerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.AbstractRegionManagerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/FlyFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.FlyFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.FlyFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/WorldGuardUtils.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.WorldGuardUtils
+ com.dumbdogdiner.worldguardextraflags.worldguard.WorldGuardUtils$1
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/AbstractRegionContainerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.AbstractRegionContainerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/HandlerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.HandlerWrapper
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.HandlerWrapper$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/PlaySoundsFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.PlaySoundsFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.PlaySoundsFlagHandler$1
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.PlaySoundsFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/GlideFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GlideFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GlideFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/AbstractSpeedFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.AbstractSpeedFlagHandler
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/GodmodeFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GodmodeFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GodmodeFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/helpers/SoundDataFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.SoundDataFlag
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/AbstractRegionQueryWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.AbstractRegionQueryWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/GiveEffectsFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GiveEffectsFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.GiveEffectsFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/helpers/PotionEffectFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.PotionEffectFlag
+com/dumbdogdiner/worldguardextraflags/flags/helpers/PotionEffectTypeFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.PotionEffectTypeFlag
+com/dumbdogdiner/worldguardextraflags/worldguard/wrappers/AbstractSessionManagerWrapper.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.wrappers.AbstractSessionManagerWrapper
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/CommandOnEntryFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.CommandOnEntryFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.CommandOnEntryFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/utils/SupportedFeatures.java
+ com.dumbdogdiner.worldguardextraflags.utils.SupportedFeatures
+com/dumbdogdiner/worldguardextraflags/flags/helpers/BlockMaterialFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.BlockMaterialFlag
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/TeleportOnEntryFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.TeleportOnEntryFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.TeleportOnEntryFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/helpers/ForcedStateFlag.java
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.ForcedStateFlag
+ com.dumbdogdiner.worldguardextraflags.flags.helpers.ForcedStateFlag$ForcedState
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/WalkSpeedFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.WalkSpeedFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.WalkSpeedFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/data/SoundData.java
+ com.dumbdogdiner.worldguardextraflags.flags.data.SoundData
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/ConsoleCommandOnEntryFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.ConsoleCommandOnEntryFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.ConsoleCommandOnEntryFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/BlockedEffectsFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.BlockedEffectsFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.BlockedEffectsFlagHandler$Factory
+com/dumbdogdiner/worldguardextraflags/flags/Flags.java
+ com.dumbdogdiner.worldguardextraflags.flags.Flags
+com/dumbdogdiner/worldguardextraflags/we/WorldEditUtils.java
+ com.dumbdogdiner.worldguardextraflags.we.WorldEditUtils
+com/dumbdogdiner/worldguardextraflags/flags/data/PotionEffectDetails.java
+ com.dumbdogdiner.worldguardextraflags.flags.data.PotionEffectDetails
+com/dumbdogdiner/worldguardextraflags/worldguard/handlers/CommandOnExitFlagHandler.java
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.CommandOnExitFlagHandler
+ com.dumbdogdiner.worldguardextraflags.worldguard.handlers.CommandOnExitFlagHandler$Factory

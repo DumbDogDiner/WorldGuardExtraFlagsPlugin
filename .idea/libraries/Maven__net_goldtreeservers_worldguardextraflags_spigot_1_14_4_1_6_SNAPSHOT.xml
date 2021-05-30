@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: net.goldtreeservers.worldguardextraflags:spigot-1_14:4.1.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/goldtreeservers/worldguardextraflags/spigot-1_14/4.1.6-SNAPSHOT/spigot-1_14-4.1.6-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Spigot-1_14/spigot-1_14-4.1.6-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/goldtreeservers/worldguardextraflags/spigot-1_14/4.1.6-SNAPSHOT/spigot-1_14-4.1.6-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Spigot-1_14/spigot-1_14-4.1.6-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/goldtreeservers/worldguardextraflags/spigot-1_14/4.1.6-SNAPSHOT/spigot-1_14-4.1.6-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
