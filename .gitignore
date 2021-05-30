@@ -11,4 +11,8 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+# spigradle debug
 debug/
+
+# editor agnosticism
+.idea/
